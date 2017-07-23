@@ -14,4 +14,12 @@ Input
 - Image of a parking lot
 - Coordinates that define the individual spaces
 
-![test](https://github.com/johnyu0424/AZ-Hack-Day/blob/master/uploads/landing_page1.png)
+
+[landing_page](https://github.com/johnyu0424/AZ-Hack-Day/blob/master/uploads/landing_page1.png)
+[input](https://github.com/johnyu0424/AZ-Hack-Day/blob/master/uploads/input.png)
+
+[cropped image](https://github.com/johnyu0424/AZ-Hack-Day/blob/master/images/cropped/crp1.png)
+[edge detection](https://github.com/johnyu0424/AZ-Hack-Day/blob/master/images/cropped/edges1.png)
+[result](https://github.com/johnyu0424/AZ-Hack-Day/blob/master/uploads/result.png)
+
+
