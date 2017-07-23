@@ -2,7 +2,7 @@
 
 This repository contains:
 - Python prototype
-- 1 .jpg for testing
+- jpg for testing
 
 Description
 -----------
