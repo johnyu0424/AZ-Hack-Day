@@ -4,6 +4,13 @@ This repository contains:
 - Python prototype
 - jpg for testing
 
+Team
+-----------
+- John Yu
+- Simon Choi
+- Mahdi Sadjadi
+- Jason Choi
+
 Description
 -----------
 UI interface for testing the OpenCV implementation to detect open parking spots.  This python prototype simulates an instance of video stream processing where stream captures are sliced and processed.
